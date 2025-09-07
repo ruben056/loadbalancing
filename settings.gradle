@@ -1,0 +1,5 @@
+rootProject.name = 'loadbalacing'
+
+include 'api'
+include 'eureka-registry'
+include 'webclient'
